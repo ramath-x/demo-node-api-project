@@ -1,0 +1,22 @@
+
+{
+  "name": "demo-node-api-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0",
+    "sequelize-cli": "^6.6.2"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "import-export": "^1.0.1"
+  },
+  "description": ""
+}
